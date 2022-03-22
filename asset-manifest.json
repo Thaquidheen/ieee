@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ieee/static/css/main.2c78959a.css",
+    "main.js": "/ieee/static/js/main.2dae599d.js",
+    "static/media/icetLogo.png": "/ieee/static/media/icetLogo.603385872ee278ffee50.png",
+    "static/media/International Conference on Innovations in Engineering and Technology.png": "/ieee/static/media/International Conference on Innovations in Engineering and Technology.fc0534515842db58cc78.png",
+    "static/media/ieee1.jpg": "/ieee/static/media/ieee1.776a216c229607271b4d.jpg",
+    "index.html": "/ieee/index.html",
+    "main.2c78959a.css.map": "/ieee/static/css/main.2c78959a.css.map",
+    "main.2dae599d.js.map": "/ieee/static/js/main.2dae599d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c78959a.css",
+    "static/js/main.2dae599d.js"
+  ]
+}
